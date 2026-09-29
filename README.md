@@ -29,3 +29,7 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 - Values shown in USD format for portfolio purposes; source data is in Brazilian Real (BRL).
 - Revenue trend shows a drop-off in the final month, a known limitation of this dataset's 
   data collection period rather than a real business decline.
+
+
+![Dashboard Screenshot](screenshots/dashboard-overview.png)
+  
